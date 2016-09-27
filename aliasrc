@@ -1,0 +1,6 @@
+
+for f in /etc/aliasrc.d/*.aliasrc; do
+	source f
+done
+
+[[ -e ~/.aliasrc ]] && source ~/.aliasrc

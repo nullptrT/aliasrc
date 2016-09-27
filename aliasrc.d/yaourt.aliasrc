@@ -1,0 +1,3 @@
+alias y='yaourt '
+alias ys='yaourt -S'
+alias ysyu='yaourt -Syua'

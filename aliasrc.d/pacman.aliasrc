@@ -1,0 +1,8 @@
+alias p='sudo pacman'
+alias psi='pacman -Si'
+alias pss='pacman -Ss'
+alias pqi='pacman -Qi'
+alias rsc='sudo pacman -Rsc'
+alias rscn='sudo pacman -Rscn'
+alias pt='pactree'
+alias ptr='pactree -r'
