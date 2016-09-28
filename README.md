@@ -1,8 +1,8 @@
 # aliasrc
 ##### Another rc for a faster command line
-###### v1.0.0
+###### v1.0.1
 
-aliasrc is a simple rc file that helps you to use you shell faster.
+aliasrc is a simple rc file that helps you to use your shell faster.
 It provides aliases for different programs.
 
 ## Custom aliases
