@@ -5,13 +5,17 @@
 aliasrc is a simple rc file that helps you to use your shell faster.
 It provides aliases for different programs.
 
+## Usage
+
+Add the line `source /etc/aliasrc` to your shell's rc (e.g. `~/.bashrc` or `~/.zshrc`)
+
 ## Custom aliases
 
 Simply create a `~/.aliasrc` with custom aliases or create a package that installs `*.aliasrc` files to `/etc/aliasrc.d`
 
 ## Installation
 
-You can either install aliasrc from AUR (e.g. `yaourt -S aliasrc`) or use the local PKGBUILD under `pkg/arch`
+You can use the local PKGBUILD under `pkg/arch`
 
 ## License
 
