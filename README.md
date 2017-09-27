@@ -1,6 +1,6 @@
 # aliasrc
 ##### Another rc for a faster command line
-###### v1.0.1
+###### v1.0.2
 
 aliasrc is a simple rc file that helps you to use your shell faster.
 It provides aliases for different programs.
@@ -15,7 +15,7 @@ Simply create a `~/.aliasrc` with custom aliases or create a package that instal
 
 ## Installation
 
-You can use the local PKGBUILD under `pkg/arch`
+You can use the local PKGBUILD under `pkg/arch` or use the (https://aur.archlinux.org/packages/aliasrc/)[Arch Linux user repository].
 
 ## License
 
