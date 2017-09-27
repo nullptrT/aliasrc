@@ -1,0 +1,5 @@
+alias paur='pacaur'
+alias paurs='pacaur -S'
+alias paurss='pacaur -Ss'
+alias paursu='pacaur -Su'
+alias paursyu='pacaur -Syu'

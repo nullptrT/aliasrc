@@ -1,0 +1,3 @@
+alias cleantex='rm -v *.nav; rm -v *.snm; rm -v *.aux; rm -v *.out; rm -v *.synctex.gz; rm -v *.toc;rm -v *.soc; rm -v *.lof; rm -v *.loa; rm -v *.lot; rm -v .fuse_*; rm -v *.bbl; rm -v *.blg'
+alias cleantex-all='cleantex; rm -v *.log'
+

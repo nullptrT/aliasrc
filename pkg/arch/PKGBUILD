@@ -1,7 +1,7 @@
 # Maintainer: Sebastian Lau <lauseb644 _at_ gmail _dot_ com>
 
 pkgname="aliasrc"
-pkgver=1.0.1
+pkgver=1.0.2
 pkgrel=1
 pkgdesc="Another rc for a faster command line"
 arch=('any')
