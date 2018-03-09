@@ -1,0 +1,1 @@
+alias mksrcinfo='makepkg --printsrcinfo > .SRCINFO'

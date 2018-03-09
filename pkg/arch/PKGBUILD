@@ -1,7 +1,7 @@
 # Maintainer: Sebastian Lau <lauseb644 _at_ gmail _dot_ com>
 
-pkgname="aliasrc"
-pkgver=1.0.2
+pkgname="aliasrc-git"
+pkgver=1.0.3
 pkgrel=1
 pkgdesc="Another rc for a faster command line"
 arch=('any')
@@ -9,7 +9,7 @@ url="https://github.com/nullptrT/aliasrc"
 license=('GPL3')
 depends=()
 makedepends=()
-conflicts=()
+conflicts=('aliasrc')
 source=("aliasrc.install")
 md5sums=('a82a1ea241b90b005b21998b00be273d')
 
