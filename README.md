@@ -21,7 +21,7 @@ You can use the local PKGBUILD under `pkg/arch` or use the (https://aur.archlinu
 
 All files in this repository are licensed under the terms of GNU General Public License as published by the Free Software Foundation, version 3:
 
-Copyright (C) 2016-2017 Sebastian Lau <lauseb644 _at_ gmail _dot_ com>
+Copyright (C) 2016-2018 Sebastian Lau <lauseb644 _at_ gmail _dot_ com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
